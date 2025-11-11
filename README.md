@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>kigali decoration</title>
+<title>4LAYZ DRIP </title>
 <style>
   body {
     font-family: 'Poppins', sans-serif;
@@ -71,11 +71,11 @@
   }
   .social-links a {
     color: white;
-    text-decoration: none;
+    text-DRIP: none;
     font-size: 1.1em;
   }
   .social-links a:hover {
-    color: #f4b400;
+    color: blue;
   }
 </style>
 </head>
@@ -181,7 +181,7 @@
   </div>
 
   <div style="text-align:center; margin-top:30px; font-size:0.9em; color:#ccc;">
-    © 2025 kigali decoration center — All Rights Reserved.
+      4LAYZ DRIP
   </div>
 </footer>
 
